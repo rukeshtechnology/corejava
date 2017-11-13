@@ -1,4 +1,4 @@
-package reading.files;
+package io.readfile;
 
 public class MyFileReaderDriver {
 	
